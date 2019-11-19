@@ -1,53 +1,50 @@
-track P2_D_2_C3 Pileup
+track P2_D_2_C3_Pileup
 type bigWig
-bigDataUrl http://ddl.escience.cn/sunshaosheng2019m-big-ac-cn/r/11003886
+bigDataUrl https://bigd.big.ac.cn/rankDetect/copy/P2-D-2-C3_peaks.bw
 shortLabel C3_Pileup
 longLabel P2_D_2_C3 Pileup
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track P2_D_2_G8 Pileup
+track P2_D_2_G8_Pileup
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-G8_peaks.bw
+bigDataUrl https://bigd.big.ac.cn/rankDetect/copy/P2-D-2-G8_peaks.bw
 shortLabel G8_Pileup
 longLabel P2_D_2_G8 Pileup
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track P2_D_2_H5 Pileup
+track P2_D_2_H5_Pileup
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-H5_peaks.bw
+bigDataUrl https://bigd.big.ac.cn/rankDetect/copy/P2-D-2-H5_peaks.bw
 shortLabel H5_Pileup
 longLabel P2_D_2_H5 Pileup
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track P2_D_2_C3 Peak
-type bed
-bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-C3_peaks.narrowPeak
+track P2_D_2_C3_Peak
+type bigBed 3
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-C3_peaks.bb
 shortLabel C3 Peak
 longLabel P2_D_2_C3 Peak
 visibility full
-color 0,255,0
 maxHeightPixels 100:32:8
 
-track P2_D_2_G8 Peak
-type bed
-bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-G8_peaks.narrowPeak
+track P2_D_2_G8_Peak
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-G8_peaks.bb
 shortLabel G8 Peak
 longLabel P2_D_2_G8 Peak
 visibility full
-color 0,255,0
 maxHeightPixels 100:32:8
 
-track P2_D_2_H5 Peak
-type bed
-bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-H5_peaks.narrowPeak
+track P2_D_2_H5_Peak
+type bigBed 3
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-H5_peaks.bb
 shortLabel H5 Peak
 longLabel P2_D_2_H5 Peak
 visibility full
-color 0,255,0
 maxHeightPixels 100:32:8
