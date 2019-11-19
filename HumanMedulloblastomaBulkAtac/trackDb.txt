@@ -31,7 +31,8 @@ bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedull
 shortLabel C3_Peak
 longLabel P2_D_2_C3 Peak
 visibility full
-maxHeightPixels 100:50:8
+color 0,255,0
+maxHeightPixels 100:50:25
 
 track P2_D_2_G8_Peak
 type bigNarrowPeak
@@ -39,7 +40,8 @@ bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedull
 shortLabel G8_Peak
 longLabel P2_D_2_G8 Peak
 visibility full
-maxHeightPixels 100:50:8
+color 0,255,0
+maxHeightPixels 100:50:25
 
 track P2_D_2_H5_Peak
 type bigNarrowPeak
@@ -47,4 +49,5 @@ bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedull
 shortLabel H5_Peak
 longLabel P2_D_2_H5 Peak
 visibility full
-maxHeightPixels 100:50:8
+color 0,255,0
+maxHeightPixels 100:50:25
