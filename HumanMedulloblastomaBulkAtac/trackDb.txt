@@ -5,7 +5,7 @@ shortLabel C3_Pileup
 longLabel P2_D_2_C3 Pileup
 visibility full
 color 255,0,0
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
 
 track P2_D_2_G8_Pileup
 type bigWig
@@ -14,7 +14,7 @@ shortLabel G8_Pileup
 longLabel P2_D_2_G8 Pileup
 visibility full
 color 255,0,0
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
 
 track P2_D_2_H5_Pileup
 type bigWig
@@ -23,28 +23,28 @@ shortLabel H5_Pileup
 longLabel P2_D_2_H5 Pileup
 visibility full
 color 255,0,0
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
 
 track P2_D_2_C3_Peak
 type bigBed 3
 bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-C3_peaks.bb
-shortLabel C3 Peak
+shortLabel C3_Peak
 longLabel P2_D_2_C3 Peak
 visibility full
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
 
 track P2_D_2_G8_Peak
 type bigBed
 bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-G8_peaks.bb
-shortLabel G8 Peak
+shortLabel G8_Peak
 longLabel P2_D_2_G8 Peak
 visibility full
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
 
 track P2_D_2_H5_Peak
 type bigBed 3
 bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-H5_peaks.bb
-shortLabel H5 Peak
+shortLabel H5_Peak
 longLabel P2_D_2_H5 Peak
 visibility full
-maxHeightPixels 100:32:8
+maxHeightPixels 100:50:8
