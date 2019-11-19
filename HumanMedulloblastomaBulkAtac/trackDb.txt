@@ -1,6 +1,6 @@
-track P2D2C3Pileup
+track P2_D_2_C3 Pileup
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/HumanMedulloblastomaBulkAtac/P2-D-2-C3_peaks.bw
+bigDataUrl http://ddl.escience.cn/sunshaosheng2019m-big-ac-cn/downloadResource/11003886?type=doc&version=1
 shortLabel C3_Pileup
 longLabel P2_D_2_C3 Pileup
 visibility full
