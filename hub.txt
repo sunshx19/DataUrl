@@ -1,0 +1,5 @@
+hub HumanMedulloblastomaBulkAtac
+shortLabel Human_Medulloblastoma
+longLabel HumanMedulloblastomaBulkAtac
+genomesFile genomes.txt
+email sunshaoxing19@mails.ucas.ac.cn

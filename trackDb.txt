@@ -1,0 +1,53 @@
+track P2_D_2_C3_Pileup
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/P2-D-2-C3.bw
+shortLabel C3_Pileup
+longLabel P2_D_2_C3 Pileup
+visibility full
+color 255,0,0
+maxHeightPixels 100:50:8
+
+track P2_D_2_G8_Pileup
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/P2-D-2-G8.bw
+shortLabel G8_Pileup
+longLabel P2_D_2_G8 Pileup
+visibility full
+color 255,0,0
+maxHeightPixels 100:50:8
+
+track P2_D_2_H5_Pileup
+type bigWig
+bigDataUrl http://ddl.escience.cn/sunshaosheng2019m-big-ac-cn/downloadResource/11012881?type=doc&version=1
+shortLabel H5_Pileup
+longLabel P2_D_2_H5 Pileup
+visibility full
+color 255,0,0
+maxHeightPixels 100:50:8
+
+track P2_D_2_C3_Peak
+type bigNarrowPeak
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/P2-D-2-C3_peaks.bb
+shortLabel C3_Peak
+longLabel P2_D_2_C3 Peak
+visibility full
+color 0,255,0
+maxHeightPixels 100:50:25
+
+track P2_D_2_G8_Peak
+type bigNarrowPeak
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/P2-D-2-G8_peaks.bb
+shortLabel G8_Peak
+longLabel P2_D_2_G8 Peak
+visibility full
+color 0,255,0
+maxHeightPixels 100:50:25
+
+track P2_D_2_H5_Peak
+type bigNarrowPeak
+bigDataUrl https://raw.githubusercontent.com/sunshx19/DataUrl/master/P2-D-2-H5_peaks.bb
+shortLabel H5_Peak
+longLabel P2_D_2_H5 Peak
+visibility full
+color 0,255,0
+maxHeightPixels 100:50:25
